@@ -119,5 +119,10 @@ class Attention(nn.Module):
         return x
 
 
+class MultiLayerPerceptron(nn.Module):
+    pass
 
-    
+
+class ViT(nn.Module):
+    pass
+
